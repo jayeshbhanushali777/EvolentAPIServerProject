@@ -1,0 +1,17 @@
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Evolent.BusinessLogic.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Evolent.BusinessLogic.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\AutoMapper.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Evolent.BusinessEntities.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Evolent.DataModel.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Resolver.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Evolent.BusinessEntities.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Evolent.DataModel.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Resolver.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\AutoMapper.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\obj\Debug\Evolent.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\obj\Debug\Evolent.BusinessLogic.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessLogic\obj\Debug\Evolent.BusinessLogic.pdb

@@ -1,0 +1,36 @@
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Resolver.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Resolver.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\CommonServiceLocator.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Abstractions.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Configuration.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Container.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Interception.Configuration.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Interception.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.RegistrationByConvention.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.ServiceLocation.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\CommonServiceLocator.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Abstractions.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Configuration.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Container.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Interception.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.Interception.Configuration.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.RegistrationByConvention.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\bin\Debug\Unity.ServiceLocation.pdb
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\obj\Debug\Resolver.dll
+E:\DemoAPPEvolvent\API.ContactManager\Resolver\obj\Debug\Resolver.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Resolver.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Resolver.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Unity.Mvc3.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Unity.WebApi.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\System.Web.Http.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\System.Web.Http.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\obj\Debug\Resolver.csprojResolveAssemblyReference.cache
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\obj\Debug\Resolver.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Resolver\obj\Debug\Resolver.pdb

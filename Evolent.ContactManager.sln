@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.ContactManager", "Evolent.ContactManager\Evolent.ContactManager.csproj", "{9E6BD532-B1EC-4B18-A299-56A3982014AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.DataModel", "Evolent.DataModel\Evolent.DataModel.csproj", "{33594573-F58F-4F3B-8E8D-95ACD495F4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.BusinessEntities", "Evolent.BusinessEntities\Evolent.BusinessEntities.csproj", "{544C1770-3786-4587-8FD6-053DE8F734F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.BusinessLogic", "Evolent.BusinessLogic\Evolent.BusinessLogic.csproj", "{3CB0C53C-F6E1-4012-8598-50C02BDB893E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolver", "Resolver\Resolver.csproj", "{2E690DC7-7C47-4484-8EB1-6C0E1DC9D088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.BusinessLogic.Tests", "Evolent.BusinessLogic.Tests\Evolent.BusinessLogic.Tests.csproj", "{9D903070-7474-43ED-8DFE-22408F4702AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.TestHelper", "Evolent.TestHelper\Evolent.TestHelper.csproj", "{CBC296E7-44A8-4466-A59C-1238ECFC4C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6BD532-B1EC-4B18-A299-56A3982014AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6BD532-B1EC-4B18-A299-56A3982014AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6BD532-B1EC-4B18-A299-56A3982014AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6BD532-B1EC-4B18-A299-56A3982014AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33594573-F58F-4F3B-8E8D-95ACD495F4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33594573-F58F-4F3B-8E8D-95ACD495F4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33594573-F58F-4F3B-8E8D-95ACD495F4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33594573-F58F-4F3B-8E8D-95ACD495F4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544C1770-3786-4587-8FD6-053DE8F734F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544C1770-3786-4587-8FD6-053DE8F734F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544C1770-3786-4587-8FD6-053DE8F734F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544C1770-3786-4587-8FD6-053DE8F734F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB0C53C-F6E1-4012-8598-50C02BDB893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB0C53C-F6E1-4012-8598-50C02BDB893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB0C53C-F6E1-4012-8598-50C02BDB893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB0C53C-F6E1-4012-8598-50C02BDB893E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E690DC7-7C47-4484-8EB1-6C0E1DC9D088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E690DC7-7C47-4484-8EB1-6C0E1DC9D088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E690DC7-7C47-4484-8EB1-6C0E1DC9D088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E690DC7-7C47-4484-8EB1-6C0E1DC9D088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D903070-7474-43ED-8DFE-22408F4702AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D903070-7474-43ED-8DFE-22408F4702AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D903070-7474-43ED-8DFE-22408F4702AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D903070-7474-43ED-8DFE-22408F4702AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC296E7-44A8-4466-A59C-1238ECFC4C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC296E7-44A8-4466-A59C-1238ECFC4C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC296E7-44A8-4466-A59C-1238ECFC4C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC296E7-44A8-4466-A59C-1238ECFC4C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessEntities\bin\Debug\Evolent.BusinessEntities.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessEntities\bin\Debug\Evolent.BusinessEntities.pdb
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessEntities\obj\Debug\Evolent.BusinessEntities.dll
+C:\Users\jayesh.damani\documents\visual studio 2013\Projects\Evolent.ContactManager\Evolent.BusinessEntities\obj\Debug\Evolent.BusinessEntities.pdb
