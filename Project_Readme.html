@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Evolent Contact Manager</title>
+    <style>
+        body {
+            background: #fff;
+            color: #505050;
+            font: 14px 'Segoe UI', tahoma, arial, helvetica, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+
+        #header {
+            background: #efefef;
+            padding: 0;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: normal;
+            margin: 0;
+            padding: 0 30px;
+            line-height: 150px;
+        }
+
+        p {
+            font-size: 20px;
+            color: #fff;
+            background: #969696;
+            padding: 0 30px;
+            line-height: 50px;
+        }
+
+        #main {
+            padding: 5px 30px;
+        }
+
+        .section {
+            width: 21.7%;
+            float: left;
+            margin: 0 0 0 4%;
+        }
+
+            .section h2 {
+                font-size: 13px;
+                text-transform: uppercase;
+                margin: 0;
+                border-bottom: 1px solid silver;
+                padding-bottom: 12px;
+                margin-bottom: 8px;
+            }
+
+            .section.first {
+                margin-left: 0;
+            }
+
+                .section.first h2 {
+                    font-size: 24px;
+                    text-transform: none;
+                    margin-bottom: 25px;
+                    border: none;
+                }
+
+                .section.first li {
+                    border-top: 1px solid silver;
+                    padding: 8px 0;
+                }
+
+            .section.last {
+                margin-right: 0;
+            }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            line-height: 20px;
+        }
+
+        li {
+            padding: 4px 0;
+        }
+
+        a {
+            color: #267cb2;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+
+    <div id="header">
+        <h1>Evolent Contact Manager</h1>
+        <p>Please follow the below steps to run the solution : </p>
+    </div>
+
+    <div id="main">
+        <div class="section first" style="width:100%;" >
+            <ul>
+                <li>
+                    <h3><b>1.</b> Setup Database in Microsoft SQL</h3><br />
+                    &nbsp;&nbsp;&nbsp; <b>1.1</b> I have provided the sql scripts to create the database in Sql Server. Running the scripts will create tables and sample data. I have given my database name as <b>"Evolent"</b>.
+                    In this project we will only be working with <b>"Contacts"</b> table to perform CURD operations using Web API and Entity framework.
+                    <br />
+                </li>
+                <li> 
+                    <h3><b>2.</b> Build the Web API application</h3><br />
+                    &nbsp;&nbsp;&nbsp; <b>2.1</b> Clone the application from GIT repository and after it is successful, build the application.
+                    It may have some missing dll's. I have put all the required dll's i.e. for respository, AutoMapper, BootStrap, etc in <b>"packages"</b> folder in the root directory.<br />
+                    &nbsp;&nbsp;&nbsp; <b>2.2</b> Build the application <b>"Evolent.ContactManager"</b> so that it gets compliled successfully.
+                    <br />
+                </li>
+                <li>
+                    <h3><b>3.</b> Host the Web API application</h3><br />
+                    &nbsp;&nbsp;&nbsp; <b>3.1</b> Run the application <b>"Evolent.ContactManager"</b> or it can be hosted in IIS.
+                    <br />
+                </li>
+                <li>
+                    <h3><b>4.</b> Build the Client application</h3><br />
+                    &nbsp;&nbsp;&nbsp; <b>4.1</b> Clone the application <b>"Evolent.Client"</b> from GIT repository and after it is successful, build the application.<br />
+                    &nbsp;&nbsp;&nbsp; <b>4.2</b> Build the application <b>"Evolent.Client"</b> so that it gets compliled successfully.
+                    <br />
+                </li>
+                <li>
+                    <h3><b>4.</b> Run the Client application</h3><br />
+                    &nbsp;&nbsp;&nbsp; <b>4.1</b> Copy the URL of <b>"Evolent.ContactManager"</b> and replace the URL present in Web.Config of <b>"Contact.Evolent"</b> with key name <b>"ContactAPI"</b> in <b>"appSettings"</b> with the URL of Host Application  <br />
+                    &nbsp;&nbsp;&nbsp; <b>4.2</b> Run the client application <b>"Evolent.Client"</b> 
+                    <br />
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
